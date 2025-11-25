@@ -1,10 +1,8 @@
 # Encrypt-Data-with-AWS-KMS
 In this project, I will demonstrate using encryption to secure data. The goal is to create encryption keys using AWS Key Management system ( AWS KMS ), encrypt a DynamoDB table's data with that key, then test access using IAM users. 
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+
 
 # Encrypt Data with AWS KMS
-
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-security-kms)
 
 **Author:** Darryl Brown  
 **Email:** darrylbrown1991@gmail.com
